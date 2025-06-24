@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "boxmod:raw_goop"
+    },
+    "result": "boxmod:goop",
+    "experience": 2,
+    "cookingtime": 100
+}

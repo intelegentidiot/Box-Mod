@@ -1,0 +1,17 @@
+{
+  "item.boxmod.cardboard": "Cardboard",
+  "item.boxmod.goop": "Goop",
+  "item.boxmod.tape": "Tape",
+  "item.boxmod.core": "Cardboard Core",
+  "item.boxmod.raw_goop": "Crystallized Goop",
+
+
+  "block.boxmod.cardboard_block": "Cardboard Block",
+  "block.boxmod.cardboard_tile": "cardboard tile",
+  "block.boxmod.craft_lantern": "Craft Lantern",
+  "block.boxmod.magical_box": "Magical Box",
+  "block.boxmod.goop_ore": "Goop Ore",
+  "block.boxmod.deepslate_goop_ore": "Deepslate Goop Ore",
+
+  "itemgroup.box": "Magical Box Mod"
+}

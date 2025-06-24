@@ -1,0 +1,9 @@
+{
+  "variants" : {
+    "open=false" : {
+      "model": "boxmod:block/magical_box"
+    },
+    "open=true": {
+      "model": "boxmod:block/magical_box_open"
+  }
+}}

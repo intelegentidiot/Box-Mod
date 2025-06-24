@@ -1,0 +1,18 @@
+{
+  "category": "misc",
+  "group": "cardboard_block",
+    "type": "minecraft:crafting_shaped",
+      "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#":{
+          "item": "boxmod:cardboard"
+        }
+    },
+    "result": {
+        "item": "boxmod:cardboard_block",
+        "count": 1
+    }
+}

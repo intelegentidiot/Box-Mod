@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#B#",
+        "BNB",
+        "#B#"
+    ],
+    "key": {
+        "B": {
+            "item": "boxmod:cardboard"
+        },
+        "#": {
+            "item": "boxmod:tape"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "boxmod:core",
+        "count": 1
+    }
+}

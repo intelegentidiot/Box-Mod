@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "" : {
+      "model": "boxmod:block/craft_lantern"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "boxmod:raw_goop"
+    },
+    "result": "boxmod:goop",
+    "experience": 4,
+    "cookingtime": 200
+}

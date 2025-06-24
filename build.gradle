@@ -19,6 +19,7 @@ group = mod_group_id
 
 repositories {
     mavenLocal()
+    maven { url "https://commoble.net/maven/" }
 }
 
 base {
@@ -112,6 +113,7 @@ configurations {
 }
 
 dependencies {
+    implementation ("net.commoble.infiniverse:infiniverse-1.21:2.0.1.0")
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
     // compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"

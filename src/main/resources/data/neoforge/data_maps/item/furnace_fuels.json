@@ -1,0 +1,10 @@
+{
+  "values": {
+    "boxmod:cardboard": {
+      "burn_time": 150
+    },
+    "boxmod:cardboard_block": {
+  "burn_time": 300
+}
+  }
+}

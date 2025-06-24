@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "GGG",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "boxmod:tape"
+        },
+        "G": {
+            "item": "minecraft:glowstone_dust"
+        }
+    },
+    "result": {
+        "item": "boxmod:craft_lantern",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+  "group": "cardboard",
+      "ingredients": [
+        {
+            "item": "boxmod:cardboard_block"
+        }
+    ],
+    "result": {
+        "item": "boxmod:cardboard",
+        "count": 4
+    }
+}

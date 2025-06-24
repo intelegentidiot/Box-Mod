@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "CXC",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "box:cardboard"
+        },
+        "B": {
+            "item": "box:tape"
+        },
+        "C": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "X": {
+            "item": "box:core"
+        }
+    },
+    "result": {
+        "item": "box:magical_box",
+        "count": 1
+    }
+}

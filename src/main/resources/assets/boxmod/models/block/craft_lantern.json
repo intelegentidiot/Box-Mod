@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "boxmod:block/craft_lantern"
+  }
+}
