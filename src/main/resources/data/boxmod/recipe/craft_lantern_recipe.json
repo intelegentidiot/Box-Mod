@@ -14,7 +14,7 @@
         }
     },
     "result": {
-        "item": "boxmod:craft_lantern",
+        "id": "boxmod:craft_lantern",
         "count": 1
     }
 }

@@ -1,7 +1,7 @@
 {
   "variants" : {
     "" : {
-      "model": "box:block/deepslate_goop_ore"
+      "model": "boxmod:block/deepslate_goop_ore"
     }
   }
 }

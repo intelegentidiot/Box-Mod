@@ -1,9 +1,13 @@
 {
     "type": "minecraft:blasting",
+    "group": "goop",
+    "category": "misc",
     "ingredient": {
         "item": "boxmod:raw_goop"
     },
-    "result": "boxmod:goop",
+    "result": {
+        "id": "boxmod:goop"
+    },
     "experience": 2,
     "cookingtime": 100
 }

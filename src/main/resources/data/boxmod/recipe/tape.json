@@ -13,7 +13,7 @@
         }
     },
     "result": {
-        "item": "boxmod:tape",
+        "id": "boxmod:tape",
         "count": 2
     },
     "group": "tape"

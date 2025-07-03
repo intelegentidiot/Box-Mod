@@ -1,6 +1,7 @@
 package net.choco.box;
 
 import net.choco.box.block.ModBlocks;
+import net.choco.box.block.entity.ModBlockEntities;
 import net.choco.box.item.ModCreativeModeTabs;
 import net.choco.box.item.ModItems;
 import org.slf4j.Logger;
@@ -58,6 +59,7 @@ public class Box
         ModCreativeModeTabs.register(modEventBus);
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        ModBlockEntities.register(modEventBus);
 
         // register the item to a creative tab
         modEventBus.addListener(this::addCreative);

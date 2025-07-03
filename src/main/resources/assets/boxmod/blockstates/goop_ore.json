@@ -1,7 +1,7 @@
 {
   "variants" : {
     "" : {
-      "model": "box:block/goop_ore"
+      "model": "boxmod:block/goop_ore"
     }
   }
 }

@@ -17,7 +17,7 @@ public class ModCreativeModeTabs {
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, Box.MODID);
 
     public static final Supplier<CreativeModeTab> BOX_MOD_TAB = CREATIVE_MODE_TAB.register("box_mod_tab",
-            ()-> CreativeModeTab.builder().icon(()-> new ItemStack(ModItems.CARDBOARD.get()))
+            ()-> CreativeModeTab.builder().icon(()-> new ItemStack(ModBlocks.MAGICAL_BOX.get()))
                     .title(Component.translatable("itemgroup.box"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept((ItemLike) ModItems.CARDBOARD);
@@ -28,6 +28,9 @@ public class ModCreativeModeTabs {
                         output.accept((ItemLike) ModItems.CORE);
                         output.accept(ModBlocks.CARDBOARD_BLOCK);
                         output.accept(ModBlocks.CRAFT_LANTERN);
+                        output.accept(ModBlocks.MAGICAL_BOX);
+                        output.accept(ModBlocks.GOOP_ORE);
+                        output.accept(ModBlocks.DEEPSLATE_GOOP_ORE);
                     }).build());
 
     public static void register(IEventBus eventBus){

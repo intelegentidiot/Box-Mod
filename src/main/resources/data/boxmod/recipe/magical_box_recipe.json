@@ -2,25 +2,22 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "#B#",
-        "CXC",
-        "#B#"
+        "#X#",
+        "###"
     ],
     "key": {
         "#": {
-            "item": "box:cardboard"
+            "item": "boxmod:cardboard"
         },
         "B": {
-            "item": "box:tape"
-        },
-        "C": {
-            "item": "minecraft:crying_obsidian"
+            "item": "boxmod:tape"
         },
         "X": {
-            "item": "box:core"
+            "item": "boxmod:core"
         }
     },
     "result": {
-        "item": "box:magical_box",
+        "id": "boxmod:magical_box",
         "count": 1
     }
 }
